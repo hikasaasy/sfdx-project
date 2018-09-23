@@ -121,6 +121,15 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
+
+                <name>animations</name>
+                <value>true</value>
+            </componentInstanceProperties>
+            <componentName>PictureGalleryCard</componentName>
+        </componentInstances>
+
+        <componentInstances>
+            <componentInstanceProperties>
                 <name>latField</name>
                 <value>Location__Latitude__s</value>
             </componentInstanceProperties>
@@ -133,6 +142,7 @@
                 <value>Name</value>
             </componentInstanceProperties>
             <componentName>MapCard</componentName>
+
         </componentInstances>
         <componentInstances>
             <componentInstanceProperties>
